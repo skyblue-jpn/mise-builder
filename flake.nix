@@ -17,12 +17,10 @@
           curl
           expat
           freetype
-          fribidi
           fuse3
           gdbm
           gfortran
           gnumake
-          harfbuzz
           icu
           libffi
           libgcc
