@@ -17,7 +17,6 @@
           curl
           expat
           freetype
-          freetype
           fribidi
           fuse3
           gdbm
@@ -30,7 +29,6 @@
           libjpeg
           libpng
           libtiff
-          libxml2
           libxml2
           libxslt
           ncurses
