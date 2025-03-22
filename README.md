@@ -5,6 +5,7 @@ This Flake is designed to build packages for various languages and tools using [
 ## Description
 
 With this Flake, you can easily spin up a development shell on your NixOS system that contains the necessary dependencies to work with `mise`. This allows you to build and run various language runtimes and tools managed by `mise` within a consistent and reproducible environment defined in the `flake.nix` file.
+Currently supported language: python, R
 
 ## Prerequisites
 

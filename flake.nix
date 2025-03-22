@@ -17,16 +17,20 @@
           curl
           expat
           freetype
+          freetype
+          fribidi
           fuse3
           gdbm
           gfortran
           gnumake
+          harfbuzz
           icu
           libffi
           libgcc
           libjpeg
           libpng
           libtiff
+          libxml2
           libxml2
           libxslt
           ncurses
